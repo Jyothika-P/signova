@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1090542554035-vogp6103cj4dcvrm5grvhc5s1r9l8b67.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://signova-18ec8-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1090542554035</string>
+    <string name="google_api_key" translatable="false">AIzaSyBHiQJgWCnMirBHC8lZASvILTnZA7JOHN0</string>
+    <string name="google_app_id" translatable="false">1:1090542554035:android:16f3cebc71a07f02b099c6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBHiQJgWCnMirBHC8lZASvILTnZA7JOHN0</string>
+    <string name="google_storage_bucket" translatable="false">signova-18ec8.firebasestorage.app</string>
+    <string name="project_id" translatable="false">signova-18ec8</string>
+</resources>

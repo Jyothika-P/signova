@@ -1,2 +1,0 @@
-/Users/jyothikap/Desktop/app development/unmute/unmute_v1/android/app/.cxx/Debug/4d36w4d6/x86_64/CMakeFiles/edit_cache.dir
-/Users/jyothikap/Desktop/app development/unmute/unmute_v1/android/app/.cxx/Debug/4d36w4d6/x86_64/CMakeFiles/rebuild_cache.dir
